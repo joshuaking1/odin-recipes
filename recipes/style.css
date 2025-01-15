@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+    align-items: center;
+}
+img{
+    align-items: center;
+}
+h1, h2, p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+}
+ul, li{
+    color: white;
+}
+a{
+    color: red;
+}
