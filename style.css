@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+    align-items: center;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: red;
+}
+a{
+    color: red;
+}
